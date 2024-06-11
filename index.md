@@ -8,4 +8,7 @@
 # Agregando una imagen
 ![Image of Yaktocat](https://cdn.pixabay.com/animation/2023/10/02/18/06/18-06-24-613_512.gif)
 
-Esto ha sido una prueba de uso de Markdown
+# Probando codigo
+``` javascript
+var myVar = "Hello, world!";
+```
